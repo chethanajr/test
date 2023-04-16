@@ -1,0 +1,5 @@
+echo "monday"
+echo "tuesday"
+echo "wednesday"
+echo "thursday"
+echo "friday"
