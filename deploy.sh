@@ -1,2 +1,1 @@
-#!/bin/bash
-pipeline project
+echo "hello how are you"
